@@ -1857,104 +1857,104 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <attribute name="POPULARITY" value="3" x="144" y="-84.9" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="65.6601" y="10.35" size="0.02" layer="27"/>
 </element>
-<element name="TP1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="12.21" y="66.15" smashed="yes">
-<attribute name="NAME" x="11.11" y="67.6" size="1.27" layer="25"/>
+<element name="TP_TX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="12.21" y="66.15" smashed="yes">
+<attribute name="NAME" x="12.81" y="67.9" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="46.5" y="-29.1" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="12.21" y="63.61" size="1" layer="37"/>
 <attribute name="VALUE" x="11.448" y="65.134" size="0.0254" layer="27"/>
 </element>
-<element name="TP10" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="123.1" y="5.27" smashed="yes">
-<attribute name="NAME" x="122.1" y="6.32" size="1.27" layer="25"/>
-<attribute name="POPULARITY" value="2" x="186.6" y="-84.9" size="1.778" layer="27" display="off"/>
-<attribute name="TP_SIGNAL_NAME" value="" x="123.1" y="2.73" size="1" layer="37"/>
-<attribute name="VALUE" x="122.338" y="4.254" size="0.0254" layer="27"/>
+<element name="TP_EPD_CS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="125.6" y="5.27" smashed="yes">
+<attribute name="NAME" x="121.7" y="2.72" size="1.27" layer="25"/>
+<attribute name="POPULARITY" value="2" x="189.1" y="-84.9" size="1.778" layer="27" display="off"/>
+<attribute name="TP_SIGNAL_NAME" value="" x="125.6" y="2.73" size="1" layer="37"/>
+<attribute name="VALUE" x="124.838" y="4.254" size="0.0254" layer="27"/>
 </element>
-<element name="TP11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="130.09" y="5.45" smashed="yes">
-<attribute name="NAME" x="129.09" y="6.5" size="1.27" layer="25"/>
-<attribute name="POPULARITY" value="2" x="159.3" y="-89.8" size="1.778" layer="27" display="off"/>
-<attribute name="TP_SIGNAL_NAME" value="" x="130.09" y="2.91" size="1" layer="37"/>
-<attribute name="VALUE" x="129.328" y="4.434" size="0.0254" layer="27"/>
+<element name="TP_EPD_DC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="135.09" y="5.45" smashed="yes">
+<attribute name="NAME" x="134.19" y="2.7" size="1.27" layer="25"/>
+<attribute name="POPULARITY" value="2" x="164.3" y="-89.8" size="1.778" layer="27" display="off"/>
+<attribute name="TP_SIGNAL_NAME" value="" x="135.09" y="2.91" size="1" layer="37"/>
+<attribute name="VALUE" x="134.328" y="4.434" size="0.0254" layer="27"/>
 </element>
-<element name="TP12" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="82.75" y="101.37" smashed="yes">
-<attribute name="NAME" x="81.75" y="102.42" size="1.27" layer="25"/>
+<element name="TP_EPD_RST" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="82.75" y="101.37" smashed="yes">
+<attribute name="NAME" x="85.45" y="95.82" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="152.6" y="11.2" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="82.75" y="98.83" size="1" layer="37"/>
 <attribute name="VALUE" x="81.988" y="100.354" size="0.0254" layer="27"/>
 </element>
-<element name="TP13" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="47.6" y="5.07" smashed="yes">
-<attribute name="NAME" x="46.6" y="6.12" size="1.27" layer="25"/>
+<element name="TP_EPD_3V3_C" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="47.6" y="5.07" smashed="yes">
+<attribute name="NAME" x="35.3" y="2.02" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="123.8" y="-85.1" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="47.6" y="2.53" size="1" layer="37"/>
 <attribute name="VALUE" x="46.838" y="4.054" size="0.0254" layer="27"/>
 </element>
-<element name="TP14" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="155.35" y="62.27" smashed="yes">
-<attribute name="NAME" x="156.95" y="61.82" size="1.27" layer="25"/>
+<element name="TP_VBUS" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="155.35" y="62.27" smashed="yes">
+<attribute name="NAME" x="161.65" y="62.92" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="237.9" y="-27.9" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="155.35" y="59.73" size="1" layer="37"/>
 <attribute name="VALUE" x="154.588" y="61.254" size="0.0254" layer="27"/>
 </element>
-<element name="TP15" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="87.9" y="101.37" smashed="yes">
-<attribute name="NAME" x="86.9" y="102.42" size="1.27" layer="25"/>
+<element name="TP_INT_RTC" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="87.9" y="101.37" smashed="yes">
+<attribute name="NAME" x="91.2" y="96.12" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="176.8" y="11.2" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="87.9" y="98.83" size="1" layer="37"/>
 <attribute name="VALUE" x="87.138" y="100.354" size="0.0254" layer="27"/>
 </element>
-<element name="TP16" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="77.29" y="101.45" smashed="yes">
-<attribute name="NAME" x="76.29" y="102.5" size="1.27" layer="25"/>
+<element name="TP_3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="77.29" y="101.45" smashed="yes">
+<attribute name="NAME" x="79.69" y="98.2" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="93.8" y="6.2" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="77.29" y="98.91" size="1" layer="37"/>
 <attribute name="VALUE" x="76.528" y="100.434" size="0.0254" layer="27"/>
 </element>
-<element name="TP17" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="54.04" y="5.15" smashed="yes">
-<attribute name="NAME" x="53.04" y="6.2" size="1.27" layer="25"/>
+<element name="TP_EPD_3V3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="54.04" y="5.15" smashed="yes">
+<attribute name="NAME" x="52.64" y="2" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="76.9" y="-90.1" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="54.04" y="2.61" size="1" layer="37"/>
 <attribute name="VALUE" x="53.278" y="4.134" size="0.0254" layer="27"/>
 </element>
-<element name="TP2" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="15.43" y="66.15" smashed="yes">
-<attribute name="NAME" x="15.03" y="67.7" size="1.27" layer="25"/>
+<element name="TP_RX" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="15.43" y="66.15" smashed="yes">
+<attribute name="NAME" x="15.83" y="67.8" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="54.8" y="-29.1" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="15.43" y="63.61" size="1" layer="37"/>
 <attribute name="VALUE" x="14.668" y="65.134" size="0.0254" layer="27"/>
 </element>
-<element name="TP3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="141.35" y="64.15" smashed="yes">
-<attribute name="NAME" x="140.35" y="65.2" size="1.27" layer="25"/>
+<element name="TP_VBAT" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="141.35" y="64.15" smashed="yes">
+<attribute name="NAME" x="135.05" y="65.4" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="185.8" y="-31.1" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="141.35" y="61.61" size="1" layer="37"/>
 <attribute name="VALUE" x="140.588" y="63.134" size="0.0254" layer="27"/>
 </element>
-<element name="TP4" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="155.27" y="65.35" smashed="yes">
-<attribute name="NAME" x="156.67" y="64.7" size="1.27" layer="25"/>
+<element name="TP_GND1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="155.27" y="65.35" smashed="yes">
+<attribute name="NAME" x="161.57" y="65" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="204.8" y="-29.9" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="155.27" y="62.81" size="1" layer="37"/>
 <attribute name="VALUE" x="154.508" y="64.334" size="0.0254" layer="27"/>
 </element>
-<element name="TP5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="110.69" y="5.35" smashed="yes">
-<attribute name="NAME" x="109.69" y="6.4" size="1.27" layer="25"/>
-<attribute name="POPULARITY" value="2" x="165.3" y="-89.9" size="1.778" layer="27" display="off"/>
-<attribute name="TP_SIGNAL_NAME" value="" x="110.69" y="2.81" size="1" layer="37"/>
-<attribute name="VALUE" x="109.928" y="4.334" size="0.0254" layer="27"/>
+<element name="TP_GND" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="103.89" y="5.45" smashed="yes">
+<attribute name="NAME" x="98.79" y="2.9" size="1.27" layer="25"/>
+<attribute name="POPULARITY" value="2" x="158.5" y="-89.8" size="1.778" layer="27" display="off"/>
+<attribute name="TP_SIGNAL_NAME" value="" x="103.89" y="2.91" size="1" layer="37"/>
+<attribute name="VALUE" x="103.128" y="4.434" size="0.0254" layer="27"/>
 </element>
-<element name="TP6" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="9.11" y="66.15" smashed="yes">
-<attribute name="NAME" x="7.31" y="67.6" size="1.27" layer="25"/>
+<element name="TP_MISO" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="9.11" y="66.15" smashed="yes">
+<attribute name="NAME" x="8.81" y="67.6" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="68.8" y="-29.1" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="9.11" y="63.61" size="1" layer="37"/>
 <attribute name="VALUE" x="8.348" y="65.134" size="0.0254" layer="27"/>
 </element>
-<element name="TP7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="15.63" y="26.95" smashed="yes">
-<attribute name="NAME" x="14.63" y="28" size="1.27" layer="25"/>
+<element name="TP_MOSI" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="15.63" y="26.95" smashed="yes">
+<attribute name="NAME" x="16.23" y="17.5" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="80.4" y="-68.3" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="15.63" y="24.41" size="1" layer="37"/>
 <attribute name="VALUE" x="14.868" y="25.934" size="0.0254" layer="27"/>
 </element>
-<element name="TP8" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="10.55" y="26.95" smashed="yes">
-<attribute name="NAME" x="9.55" y="28" size="1.27" layer="25"/>
+<element name="TP_SCK" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="10.55" y="26.95" smashed="yes">
+<attribute name="NAME" x="11.15" y="18.3" size="1.27" layer="25" rot="R90"/>
 <attribute name="POPULARITY" value="2" x="80.4" y="-68.3" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="10.55" y="24.41" size="1" layer="37"/>
 <attribute name="VALUE" x="9.788" y="25.934" size="0.0254" layer="27"/>
 </element>
-<element name="TP9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="116.97" y="5.45" smashed="yes">
-<attribute name="NAME" x="115.97" y="6.5" size="1.27" layer="25"/>
+<element name="TP_EPD_BUSY" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.H5hDozG6QPetQDMEzkF4lg" package="TP20R" value="TPTP20R" x="116.97" y="5.45" smashed="yes">
+<attribute name="NAME" x="107.07" y="2.5" size="1.27" layer="25"/>
 <attribute name="POPULARITY" value="2" x="191.9" y="-89.8" size="1.778" layer="27" display="off"/>
 <attribute name="TP_SIGNAL_NAME" value="" x="116.97" y="2.91" size="1" layer="37"/>
 <attribute name="VALUE" x="116.208" y="4.434" size="0.0254" layer="27"/>
@@ -2095,8 +2095,8 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="U3" pad="13"/>
 <contactref element="C10_SUPERCAP" pad="2"/>
 <contactref element="C8" pad="2"/>
-<contactref element="TP4" pad="TP"/>
-<contactref element="TP5" pad="TP"/>
+<contactref element="TP_GND1" pad="TP"/>
+<contactref element="TP_GND" pad="TP"/>
 <contactref element="J3" pad="1"/>
 <contactref element="D8" pad="1"/>
 <contactref element="D6" pad="1"/>
@@ -2322,10 +2322,10 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="88.29375" y1="19.39" x2="88.29" y2="19.36" width="0.15" layer="1"/>
 <wire x1="88.7785" y1="19.39" x2="88.7785" y2="31.50875" width="0.15" layer="1"/>
 <wire x1="88.7785" y1="31.50875" x2="88.78" y2="31.54" width="0.15" layer="1"/>
-<wire x1="99.443" y1="5.4015" x2="110.6615" y2="5.4015" width="0.15" layer="1"/>
+<wire x1="99.443" y1="5.4015" x2="103.863159375" y2="5.4015" width="0.15" layer="1"/>
 <wire x1="92.44875" y1="12.39575" x2="99.443" y2="5.4015" width="0.15" layer="1"/>
 <wire x1="91.687" y1="12.39575" x2="92.44875" y2="12.39575" width="0.15" layer="1"/>
-<wire x1="110.6615" y1="5.4015" x2="110.69" y2="5.35" width="0.15" layer="1"/>
+<wire x1="103.863159375" y1="5.4015" x2="103.89" y2="5.45" width="0.15" layer="1"/>
 <wire x1="91.687" y1="12.39575" x2="91.62" y2="12.45" width="0.15" layer="1"/>
 <wire x1="86.77025" y1="19.39" x2="85.1775" y2="19.39" width="0.15" layer="1"/>
 <wire x1="85.1775" y1="19.39" x2="85.11" y2="19.36" width="0.15" layer="1"/>
@@ -2569,7 +2569,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="MCP73831" pad="4"/>
 <contactref element="C1_BAT" pad="1"/>
 <contactref element="CHG_LED" pad="A"/>
-<contactref element="TP14" pad="TP"/>
+<contactref element="TP_VBUS" pad="TP"/>
 <wire x1="122.91875" y1="44.1815" x2="121.39525" y2="44.1815" width="0.3" layer="1"/>
 <wire x1="123.19575" y1="44.4585" x2="122.91875" y2="44.1815" width="0.3" layer="1"/>
 <wire x1="121.39525" y1="44.1815" x2="121.33" y2="44.16" width="0.3" layer="1"/>
@@ -2785,7 +2785,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="C2_BAT" pad="1"/>
 <contactref element="U4" pad="2"/>
 <contactref element="U4" pad="3"/>
-<contactref element="TP3" pad="TP"/>
+<contactref element="TP_VBAT" pad="TP"/>
 <wire x1="126.38125" y1="52.42225" x2="127.697" y2="52.42225" width="0.3" layer="1"/>
 <wire x1="124.373" y1="54.4305" x2="126.38125" y2="52.42225" width="0.3" layer="1"/>
 <wire x1="124.373" y1="55.60775" x2="124.373" y2="54.4305" width="0.3" layer="1"/>
@@ -2838,7 +2838,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="D7" pad="2"/>
 <contactref element="R2-PINH1" pad="2"/>
 <contactref element="R1_PINH1" pad="2"/>
-<contactref element="TP16" pad="TP"/>
+<contactref element="TP_3V3" pad="TP"/>
 <contactref element="J3" pad="2"/>
 <contactref element="R8" pad="2"/>
 <contactref element="R7" pad="2"/>
@@ -2994,7 +2994,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="EPD_C5" pad="1"/>
 <contactref element="J1" pad="16"/>
 <contactref element="Q2" pad="2"/>
-<contactref element="TP17" pad="TP"/>
+<contactref element="TP_EPD_3V3" pad="TP"/>
 <wire x1="83.1" y1="30.0545" x2="78.32175" y2="30.0545" width="0.3" layer="1"/>
 <wire x1="78.32175" y1="30.0545" x2="77.6985" y2="30.0545" width="0.3" layer="1"/>
 <wire x1="85.7315" y1="32.686" x2="83.1" y2="30.0545" width="0.3" layer="1"/>
@@ -3231,7 +3231,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="U2" pad="7"/>
 <contactref element="J1" pad="14"/>
 <contactref element="U1" pad="5"/>
-<contactref element="TP7" pad="TP"/>
+<contactref element="TP_MOSI" pad="TP"/>
 <contactref element="R7" pad="1"/>
 <contactref element="D11" pad="2"/>
 <wire x1="84.0695" y1="13.7115" x2="84.0695" y2="14.88875" width="0.15" layer="1"/>
@@ -3298,7 +3298,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="U2" pad="6"/>
 <contactref element="J1" pad="13"/>
 <contactref element="U1" pad="6"/>
-<contactref element="TP8" pad="TP"/>
+<contactref element="TP_SCK" pad="TP"/>
 <contactref element="R6" pad="1"/>
 <contactref element="D10" pad="2"/>
 <wire x1="14.75025" y1="42.5195" x2="14.75025" y2="44.94325" width="0.15" layer="1"/>
@@ -3367,7 +3367,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="J4" pad="P7"/>
 <contactref element="U2" pad="27"/>
 <contactref element="U1" pad="2"/>
-<contactref element="TP6" pad="TP"/>
+<contactref element="TP_MISO" pad="TP"/>
 <contactref element="R8" pad="1"/>
 <contactref element="D12" pad="2"/>
 <wire x1="13.019" y1="97.43475" x2="11.911" y2="97.43475" width="0.15" layer="1"/>
@@ -3461,7 +3461,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="U2" pad="8"/>
 <contactref element="U3" pad="3"/>
 <contactref element="R1_PINH1" pad="1"/>
-<contactref element="TP15" pad="TP"/>
+<contactref element="TP_INT_RTC" pad="TP"/>
 <wire x1="83.30775" y1="60.03975" x2="83.30775" y2="60.94" width="0.15" layer="1"/>
 <wire x1="82.19975" y1="58.93175" x2="83.30775" y2="60.03975" width="0.15" layer="1"/>
 <wire x1="82.19975" y1="58.5855" x2="82.19975" y2="58.93175" width="0.15" layer="1"/>
@@ -3524,14 +3524,14 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <signal name="EPD_BUSY">
 <contactref element="U2" pad="26"/>
 <contactref element="J1" pad="9"/>
-<contactref element="TP9" pad="TP"/>
+<contactref element="TP_EPD_BUSY" pad="TP"/>
 <wire x1="86.63175" y1="14.5425" x2="86.63175" y2="14.88875" width="0.15" layer="1"/>
 <wire x1="88.01675" y1="13.1575" x2="86.63175" y2="14.5425" width="0.15" layer="1"/>
 <wire x1="91.133" y1="13.1575" x2="88.01675" y2="13.1575" width="0.15" layer="1"/>
 <wire x1="109.2765" y1="13.1575" x2="92.795" y2="13.1575" width="0.15" layer="16"/>
 <wire x1="92.795" y1="13.1575" x2="91.133" y2="13.1575" width="0.15" layer="16"/>
 <wire x1="115.99375" y1="6.44025" x2="109.2765" y2="13.1575" width="0.15" layer="16"/>
-<wire x1="116.96325" y1="5.47075" x2="115.99375" y2="6.44025" width="0.15" layer="1"/>
+<wire x1="115.99375" y1="6.44025" x2="116.96325" y2="5.47075" width="0.15" layer="1"/>
 <wire x1="86.63175" y1="14.88875" x2="86.62" y2="14.95" width="0.15" layer="1"/>
 <wire x1="116.96325" y1="5.47075" x2="116.97" y2="5.45" width="0.15" layer="1"/>
 <wire x1="11.01075" y1="62.1865" x2="11.01075" y2="62.4635" width="0.15" layer="1"/>
@@ -3561,15 +3561,15 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <signal name="EPD_DC">
 <contactref element="U2" pad="5"/>
 <contactref element="J1" pad="11"/>
-<contactref element="TP11" pad="TP"/>
+<contactref element="TP_EPD_DC" pad="TP"/>
 <wire x1="85.66225" y1="14.404" x2="85.66225" y2="14.88875" width="0.15" layer="1"/>
 <wire x1="88.70925" y1="11.357" x2="85.66225" y2="14.404" width="0.15" layer="1"/>
 <wire x1="110.45375" y1="11.357" x2="90.579" y2="11.357" width="0.15" layer="16"/>
 <wire x1="90.579" y1="11.357" x2="88.70925" y2="11.357" width="0.15" layer="16"/>
 <wire x1="124.16525" y1="11.357" x2="110.45375" y2="11.357" width="0.15" layer="1"/>
-<wire x1="130.0515" y1="5.47075" x2="124.16525" y2="11.357" width="0.15" layer="1"/>
+<wire x1="124.16525" y1="11.357" x2="124.206428125" y2="11.315821875" width="0.15" layer="1"/>
 <wire x1="85.66225" y1="14.88875" x2="85.62" y2="14.95" width="0.15" layer="1"/>
-<wire x1="130.0515" y1="5.47075" x2="130.09" y2="5.45" width="0.15" layer="1"/>
+<wire x1="124.206428125" y1="11.315821875" x2="135.09" y2="5.45" width="0.15" layer="1"/>
 <wire x1="13.573" y1="43.0735" x2="13.573" y2="44.94325" width="0.15" layer="1"/>
 <wire x1="14.681" y1="41.9655" x2="13.573" y2="43.0735" width="0.15" layer="1"/>
 <wire x1="23.268" y1="41.9655" x2="14.681" y2="41.9655" width="0.15" layer="1"/>
@@ -3637,7 +3637,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <signal name="EPD_CS">
 <contactref element="U2" pad="11"/>
 <contactref element="J1" pad="12"/>
-<contactref element="TP10" pad="TP"/>
+<contactref element="TP_EPD_CS" pad="TP"/>
 <contactref element="R9" pad="1"/>
 <contactref element="D6" pad="2"/>
 <wire x1="45.22025" y1="36.63325" x2="44.4585" y2="35.8715" width="0.15" layer="1"/>
@@ -3656,9 +3656,9 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <wire x1="90.64825" y1="10.87225" x2="88.57075" y2="10.87225" width="0.15" layer="1"/>
 <wire x1="110.9385" y1="10.87225" x2="90.64825" y2="10.87225" width="0.15" layer="16"/>
 <wire x1="117.51725" y1="10.87225" x2="110.9385" y2="10.87225" width="0.15" layer="1"/>
-<wire x1="123.05725" y1="5.33225" x2="117.51725" y2="10.87225" width="0.15" layer="1"/>
+<wire x1="117.68148125" y1="10.70801875" x2="117.51725" y2="10.87225" width="0.15" layer="1"/>
 <wire x1="85.1775" y1="14.88875" x2="85.12" y2="14.95" width="0.15" layer="1"/>
-<wire x1="123.05725" y1="5.33225" x2="123.1" y2="5.27" width="0.15" layer="1"/>
+<wire x1="125.6" y1="5.27" x2="117.68148125" y2="10.70801875" width="0.15" layer="1"/>
 <wire x1="45.22025" y1="35.456" x2="45.22025" y2="36.63325" width="0.15" layer="16"/>
 <wire x1="70.2195" y1="10.45675" x2="45.22025" y2="35.456" width="0.15" layer="16"/>
 <wire x1="90.1635" y1="10.45675" x2="70.2195" y2="10.45675" width="0.15" layer="16"/>
@@ -3748,14 +3748,14 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </signal>
 <signal name="TX">
 <contactref element="U2" pad="25"/>
-<contactref element="TP1" pad="TP"/>
+<contactref element="TP_TX" pad="TP"/>
 <wire x1="12.25725" y1="66.13375" x2="12.25725" y2="62.53275" width="0.15" layer="1"/>
 <wire x1="12.25725" y1="62.53275" x2="12.25" y2="62.49" width="0.15" layer="1"/>
 <wire x1="12.25725" y1="66.13375" x2="12.21" y2="66.15" width="0.15" layer="1"/>
 </signal>
 <signal name="RX">
 <contactref element="U2" pad="24"/>
-<contactref element="TP2" pad="TP"/>
+<contactref element="TP_RX" pad="TP"/>
 <wire x1="13.573" y1="64.33325" x2="13.573" y2="62.53275" width="0.15" layer="1"/>
 <wire x1="15.3735" y1="66.13375" x2="13.573" y2="64.33325" width="0.15" layer="1"/>
 <wire x1="13.573" y1="62.53275" x2="13.52" y2="62.49" width="0.15" layer="1"/>
@@ -3828,7 +3828,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <contactref element="U2" pad="18"/>
 <contactref element="R_CL1" pad="1"/>
 <contactref element="Q2" pad="1"/>
-<contactref element="TP13" pad="TP"/>
+<contactref element="TP_EPD_3V3_C" pad="TP"/>
 <wire x1="80.53775" y1="31.855" x2="77.6985" y2="31.855" width="0.3" layer="1"/>
 <wire x1="80.607" y1="31.78575" x2="80.53775" y2="31.855" width="0.3" layer="1"/>
 <wire x1="81.992" y1="31.78575" x2="80.607" y2="31.78575" width="0.3" layer="1"/>
@@ -3965,7 +3965,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <signal name="EPD_RST">
 <contactref element="U2" pad="21"/>
 <contactref element="J1" pad="10"/>
-<contactref element="TP12" pad="TP"/>
+<contactref element="TP_EPD_RST" pad="TP"/>
 <wire x1="86.147" y1="16.066" x2="86.147" y2="14.958" width="0.15" layer="1"/>
 <wire x1="86.147" y1="18.4205" x2="86.147" y2="16.066" width="0.15" layer="16"/>
 <wire x1="86.2855" y1="18.559" x2="86.147" y2="18.4205" width="0.15" layer="16"/>
