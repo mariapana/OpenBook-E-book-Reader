@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
+<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -2529,6 +2529,18 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </via>
 <via x="53.461" y="31.64725" extent="1-16" drill="0.3">
 </via>
+<polygon width="0.1524" layer="1" spacing="1.27" pour="solid" thermals="yes">
+<vertex x="-11.9238" y="-6.9238"/>
+<vertex x="180.9238" y="-6.9238"/>
+<vertex x="180.9238" y="115.9238"/>
+<vertex x="-11.9238" y="115.9238"/>
+</polygon>
+<polygon width="0.1524" layer="16" spacing="1.27" pour="solid" thermals="yes">
+<vertex x="-14.9238" y="-9.9238"/>
+<vertex x="184.9238" y="-9.9238"/>
+<vertex x="184.9238" y="118.9238"/>
+<vertex x="-14.9238" y="118.9238"/>
+</polygon>
 </signal>
 <signal name="VUSB" class="1">
 <contactref element="PFMF.050.1" pad="1"/>
